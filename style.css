@@ -127,8 +127,8 @@ ul {
 }
 
 .iframes {
-    width:"560"
-    height:"315"
+    width:"560";
+    height:"315";
 }
 
 .quantum-topics {
@@ -335,7 +335,10 @@ ul {
     .page-intro .lead {
         font-size: 1.25rem;
     }
-
+    .iframes {
+        width: 100%;
+        height: 100%;
+    }
     .quantum-topics,
     .members-section {
         padding: 70px 0 90px;
@@ -431,8 +434,8 @@ ul {
     }
 
     .iframes {
-        width: 100%
-        height: 100%
+        width: 100%;
+        height: 100%;
     }
     
     .quantum-topics,
@@ -546,8 +549,8 @@ ul {
         font-size: 1.2rem;
     }
     .iframes {
-        width: 100%
-        height: 100%
+        width: 100%;
+        height: 100%;
     }
     .member-card {
         padding: 28px 20px;
