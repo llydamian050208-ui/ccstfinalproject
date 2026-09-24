@@ -126,10 +126,14 @@ ul {
     max-width: 950px;
 }
 
+.video-wrapper {
+    width: 100%;
+    max-width: 900px;     
+    margin: 0 auto 56px;   
+}
 .iframes {
     display: block;
     width: 100%;
-    max-width: 560px;
     aspect-ratio: 16 / 9;
     height: auto;
     border: 0;
