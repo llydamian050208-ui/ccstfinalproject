@@ -127,7 +127,6 @@ ul {
 }
 
 .iframes {
-    padding: 90px 0 110px;
     width:"560"
     height:"315"
 }
@@ -432,7 +431,6 @@ ul {
     }
 
     .iframes {
-        padding: 90px 0 110px;
         width: 100%
         height: 100%
     }
@@ -548,7 +546,6 @@ ul {
         font-size: 1.2rem;
     }
     .iframes {
-        padding: 90px 0 110px;
         width: 100%
         height: 100%
     }
